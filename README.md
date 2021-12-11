@@ -1,3 +1,3 @@
 # marioMD
 
-https://antieatingactivist.github.io/mariomd/
+https://antieatingactivist.github.io/marioMD/
